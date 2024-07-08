@@ -1,3 +1,3 @@
 # "Programming-Languages" Exercises 
-Here you can find exercises from the course "Programming Languages" that I took at Bar-Ilan University. 
+Here you can find exercises from the 'Programming Languages' course that I took at Bar-Ilan University.
 
